@@ -1,0 +1,22 @@
+body{color:darkblue}
+.l1{
+    list-style-type: square;
+}
+.l2{
+    list-style-type: circle;
+}
+.l3{
+    list-style-type: disc;
+}
+.l4{
+    list-style-image: url(seta_azul.gif)
+}
+.l5{
+    list-style-type: decimal;
+}
+.l6{
+    list-style-type: lower-roman;
+}
+.l7{
+    list-style-type: lower-alpha;
+}

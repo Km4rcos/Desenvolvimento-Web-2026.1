@@ -1,0 +1,23 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+}
+h2{
+    font-family: Arial;
+}
+h3{
+    font-family: Arial;
+    color:green
+}
+h4{
+    font-family: Arial;
+    color:gray
+}
+h5{
+    font-family: Arial;
+    color:red
+}
+h6{
+    font-family: Arial;
+    color:blue
+}

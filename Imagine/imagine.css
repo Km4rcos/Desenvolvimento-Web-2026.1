@@ -1,0 +1,6 @@
+.body{font-family: Arial;margin: 0 10%; color:maroon}
+.p1{text-align: left;}
+.p2{text-align: center;}
+.p3{text-align: right;}
+.hr{border-top:1px solid maroon;}
+.p1,.p2,.p3{font-size: 12px;}

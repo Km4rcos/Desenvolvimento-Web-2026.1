@@ -1,0 +1,49 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    justify-content: center;
+}
+.header {
+    width: 100%;
+    text-align: right;
+    padding: 15px 30px;
+    box-sizing: border-box;
+    color: black;
+    top: 0;
+}
+.button{
+    background-color: #f8f9fa;
+    border: none;
+    padding: 10px 20px;
+}
+.logo {
+    font-size: 80px;
+    margin: 20px 0;
+}
+.p1{
+    text-align: right;
+}
+.button{
+    align-self: center;
+}
+.pblue{
+    color: blue;
+}
+.pred{
+    color: red;
+}
+.pyellow{
+    color: yellow;
+}
+.pgreen{
+    color: green;
+}
+.search{ 
+    width: 500px; /* Largura da barra */
+    height: 40px;
+    border-radius: 25px; /* Deixa as bordas arredondadas */
+    border: 1px solid #dfe1e5;
+    padding: 0 20px;
+    margin-bottom: 20px; /* Dá um espaço antes dos botões */
+    outline: none;
+}
