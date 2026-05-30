@@ -6,8 +6,8 @@ O objetivo principal é documentar meus códigos que usei para fazer as atividad
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **HTML5:**
-* **CSS3:**
+* **HTML**
+* **CSS**
 
 ## 👨‍💻 Autor
 
